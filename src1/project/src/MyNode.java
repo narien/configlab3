@@ -21,7 +21,7 @@ public class MyNode {
    * 
    * @param value The value of this node.
    */
-  public MyNode(int value) {
+  public MyNode(int value, int enSiffra) {
     this.value = value;
   }
 
