@@ -10,6 +10,7 @@ import tree.MyNode;
  */
 public class MyTree {
   private MyNode root;
+    private node root;
 
   /**
    * Class constructor.
