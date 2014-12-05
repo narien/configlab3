@@ -12,8 +12,8 @@ public class MyNode {
   private MyNode right;
   private int value;
     private int value2;
-    private int max;
-
+	private int maximus;
+    
   /**
    * Class constructor initializing this node's value.
    * 
